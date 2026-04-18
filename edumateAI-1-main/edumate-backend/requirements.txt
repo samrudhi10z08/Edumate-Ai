@@ -1,0 +1,15 @@
+flask
+flask-pymongo
+flask-cors
+bcrypt
+python-dotenv
+face-recognition
+opencv-python
+numpy
+xgboost
+pytesseract
+Pillow
+PyPDF2
+pdf2image
+flask-mail
+twilio
